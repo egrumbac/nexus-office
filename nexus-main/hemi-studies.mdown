@@ -1,6 +1,6 @@
-Hemispheric Studies
+## Hemispheric Studies
 
-Figures of Note [^1]
+### Figures of Note [^1]
 - Walter Mignolo (Duke)
 - Aníbal Quijano 
 - Gloria E. Anzaldúa
@@ -16,7 +16,7 @@ Figures of Note [^1]
 - Gustavo Pérez Firmat
 - Diana Taylor
 
-Works of Note
+### Works of Note
 - *Borderlands/La Frontera: The New Mestiza (1987) [First 3 Chap](http://isites.harvard.edu/fs/docs/icb.topic750550.files/Anzaldua%20-%20Borderlands%20La%20frontera.pdf)
 - *Coloniality of Power, Eurocentrism, and Latin America (2000) [PDF](https://www.unc.edu/~aescobar/wan/wanquijano.pdf)
 - *Coloniality of Power and Subalternity*  (2001) [PDF](http://waltermignolo.com/wp-content/uploads/2013/03/colonialitypower.pdf)
@@ -32,11 +32,11 @@ Works of Note
 - *Remapping Genre through Performance: From "American" to "Hemispheric" Studies* (2007) [PDF](http://www.jstor.org/stable/25501794?seq=1#page_scan_tab_contents)
 - *Fictions of the Trans-American Imaginary* (2003) [Intro](https://muse.jhu.edu/article/41064)
 
-Bibliographies of Note
+### Bibliographies of Note
 - [Hemispheric South/s](https://hemsouths.english.ucsb.edu/?page_id=51/)
 - [Composition and Hemispheric Studies](http://compandhemisphericstudies.qwriting.qc.cuny.edu/bibliography/)
 
-Resources and Other
+### Resources and Other
 - [Hemi Press](https://hemi.press/)
 - [Early Americas Digital Archive](http://eada.lib.umd.edu/introduction-to-the-archive/)
 
